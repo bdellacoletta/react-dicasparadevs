@@ -10,3 +10,8 @@
   cursor: pointer;
   border: none;
 }
+
+.button:hover {
+  background-color: rgb(68, 68, 68);
+  color: rgb(236, 51, 82);
+}
